@@ -6,7 +6,7 @@ Student in Math, Physics and Computer Science @ Humboldt
 
 * ✨ I am interested in explainable AI, quantum computing, intersections of M, P and CS and more
 
-* 🧠  I'm learning an exact exponential algorithms.
+* 🧠  I'm learning how to solve NP-hard problems exactly in an effitient way.
 
 ### Skills
 
