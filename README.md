@@ -6,7 +6,7 @@ Student in Math, Physics and Computer Science @ Humboldt
 
 * ✨ I am interested in explainable AI, quantum computing, intersections of M, P and CS and more
 
-* 🧠  I'm learning how to solve NP-hard problems exactly in an effitient way.
+* 🧠  I'm working on post quantum encryption and attempt to break instances of the [LWE problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf). 
 
 ### Skills
 
